@@ -1,8 +1,8 @@
-# mysql-web-adminer
+# mysql-web-adminer-cte
 
 ## Description
 Creates a small database table
-called `dog`.
+called `dog`. Uses common table expression to create a view.
 
 ## Tech stack
 - phpAdmin
